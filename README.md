@@ -1,4 +1,4 @@
-# 🔳 SystemVerilog NAND Gate with Complete Verification Environment
+# 🔳 SystemVerilog NAND Gate with Complete Verification Environment.
 
 **SystemVerilog NAND gate with a complete verification environment**, including **interface**, **driver**, **monitor**, **scoreboard**, **randomized tests**, and **functional coverage** to ensure full validation of the design.
 
